@@ -1,0 +1,182 @@
+[
+    {
+        "NAME": "Jupyter 26",
+        "PERIHELION": 8397705,
+        "ARPHELION": 24090106206,
+        "SEMI_MAJOR_AXIS": 261836970
+    },
+    {
+        "NAME": "Mars 12",
+        "PERIHELION": 2185632,
+        "ARPHELION": 75433600656,
+        "SEMI_MAJOR_AXIS": 514558557
+    },
+    {
+        "NAME": "Radio 31",
+        "PERIHELION": 7147851,
+        "ARPHELION": 74945878290,
+        "SEMI_MAJOR_AXIS": 874001581
+    },
+    {
+        "NAME": "Jupyter 30",
+        "PERIHELION": 1908947,
+        "ARPHELION": 24521408154,
+        "SEMI_MAJOR_AXIS": 969707280
+    },
+    {
+        "NAME": "Kepla 4",
+        "PERIHELION": 2135004,
+        "ARPHELION": 32494986834,
+        "SEMI_MAJOR_AXIS": 590893129
+    },
+    {
+        "NAME": "Mars 9",
+        "PERIHELION": 5416165,
+        "ARPHELION": 31067894348,
+        "SEMI_MAJOR_AXIS": 547131761
+    },
+    {
+        "NAME": "Saturn 14",
+        "PERIHELION": 1390108,
+        "ARPHELION": 35825891675,
+        "SEMI_MAJOR_AXIS": 135964373
+    },
+    {
+        "NAME": "Kepla 11",
+        "PERIHELION": 7759362,
+        "ARPHELION": 84132068472,
+        "SEMI_MAJOR_AXIS": 642341880
+    },
+    {
+        "NAME": "Saturn 20",
+        "PERIHELION": 6369047,
+        "ARPHELION": 33643792716,
+        "SEMI_MAJOR_AXIS": 589556649
+    },
+    {
+        "NAME": "Jupyter 18",
+        "PERIHELION": 1368078,
+        "ARPHELION": 32231824546,
+        "SEMI_MAJOR_AXIS": 209785188
+    },
+    {
+        "NAME": "Saturn 6",
+        "PERIHELION": 9505651,
+        "ARPHELION": 62858160553,
+        "SEMI_MAJOR_AXIS": 776994710
+    },
+    {
+        "NAME": "Jupyter 24",
+        "PERIHELION": 3734978,
+        "ARPHELION": 55716543095,
+        "SEMI_MAJOR_AXIS": 786576829
+    },
+    {
+        "NAME": "Radio 19",
+        "PERIHELION": 1894236,
+        "ARPHELION": 94553229816,
+        "SEMI_MAJOR_AXIS": 440008936
+    },
+    {
+        "NAME": "Saturn 29",
+        "PERIHELION": 5668515,
+        "ARPHELION": 64121333848,
+        "SEMI_MAJOR_AXIS": 941711469
+    },
+    {
+        "NAME": "Saturn 17",
+        "PERIHELION": 6407343,
+        "ARPHELION": 42312616872,
+        "SEMI_MAJOR_AXIS": 121511855
+    },
+    {
+        "NAME": "Mars 25",
+        "PERIHELION": 4727747,
+        "ARPHELION": 56177279576,
+        "SEMI_MAJOR_AXIS": 487834918
+    },
+    {
+        "NAME": "Saturn 10",
+        "PERIHELION": 4958121,
+        "ARPHELION": 32096244415,
+        "SEMI_MAJOR_AXIS": 812012837
+    },
+    {
+        "NAME": "Saturn 16",
+        "PERIHELION": 4556483,
+        "ARPHELION": 60442354845,
+        "SEMI_MAJOR_AXIS": 175829784
+    },
+    {
+        "NAME": "Mercury 5",
+        "PERIHELION": 6775478,
+        "ARPHELION": 33180320344,
+        "SEMI_MAJOR_AXIS": 166976136
+    },
+    {
+        "NAME": "Kepla 15",
+        "PERIHELION": 5257110,
+        "ARPHELION": 35953007755,
+        "SEMI_MAJOR_AXIS": 498472473
+    },
+    {
+        "NAME": "Mars 22",
+        "PERIHELION": 6447046,
+        "ARPHELION": 74867631365,
+        "SEMI_MAJOR_AXIS": 669594591
+    },
+    {
+        "NAME": "Mercury 8",
+        "PERIHELION": 1298153,
+        "ARPHELION": 22285804038,
+        "SEMI_MAJOR_AXIS": 913613574
+    },
+    {
+        "NAME": "Saturn 28",
+        "PERIHELION": 6825288,
+        "ARPHELION": 10882818976,
+        "SEMI_MAJOR_AXIS": 828753505
+    },
+    {
+        "NAME": "Kepla 23",
+        "PERIHELION": 8082300,
+        "ARPHELION": 92496268496,
+        "SEMI_MAJOR_AXIS": 186998438
+    },
+    {
+        "NAME": "Mercury 2",
+        "PERIHELION": 8055646,
+        "ARPHELION": 31049462738,
+        "SEMI_MAJOR_AXIS": 341050760
+    },
+    {
+        "NAME": "Radio 3",
+        "PERIHELION": 3278713,
+        "ARPHELION": 89745882693,
+        "SEMI_MAJOR_AXIS": 737864449
+    },
+    {
+        "NAME": "Kepla 27",
+        "PERIHELION": 6035860,
+        "ARPHELION": 67694795808,
+        "SEMI_MAJOR_AXIS": 210992260
+    },
+    {
+        "NAME": "Mars 21",
+        "PERIHELION": 1378077,
+        "ARPHELION": 21605424435,
+        "SEMI_MAJOR_AXIS": 508681542
+    },
+    {
+        "NAME": "Mercury 7",
+        "PERIHELION": 1133495,
+        "ARPHELION": 90966034648,
+        "SEMI_MAJOR_AXIS": 504675637
+    },
+    {
+        "NAME": "Saturn 13",
+        "PERIHELION": 7525710,
+        "ARPHELION": 11169460579,
+        "SEMI_MAJOR_AXIS": 407222019
+    }
+]

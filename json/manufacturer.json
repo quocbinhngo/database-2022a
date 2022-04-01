@@ -1,0 +1,56 @@
+[
+    {
+        "NAME": "SPACEX",
+        "WEBSITE_URL": "https://www.spacex.com/",
+        "FOUNDED_DATE": "1993/09/09",
+        "COUNTRY_ID": 8
+    },
+    {
+        "NAME": "BLUE ORIGIN",
+        "WEBSITE_URL": "https://www.blueorigin.com/",
+        "FOUNDED_DATE": "1990/08/29",
+        "COUNTRY_ID": 12
+    },
+    {
+        "NAME": "BOEING",
+        "WEBSITE_URL": "https://www.boeing.com/",
+        "FOUNDED_DATE": "1994/08/09",
+        "COUNTRY_ID": 3
+    },
+    {
+        "NAME": "AIRBUS",
+        "WEBSITE_URL": "https://www.airbus.com/en",
+        "FOUNDED_DATE": "1992/02/13",
+        "COUNTRY_ID": 4
+    },
+    {
+        "NAME": "LOCKHEED MARTIN",
+        "WEBSITE_URL": "https://www.lockheedmartin.com/",
+        "FOUNDED_DATE": "1994/07/29",
+        "COUNTRY_ID": 10
+    },
+    {
+        "NAME": "RAYTHEON",
+        "WEBSITE_URL": "https://www.rtx.com/",
+        "FOUNDED_DATE": "1998/10/31",
+        "COUNTRY_ID": 9
+    },
+    {
+        "NAME": "NORTHROP GRUMMAN",
+        "WEBSITE_URL": "https://www.northropgrumman.com/",
+        "FOUNDED_DATE": "1996/08/08",
+        "COUNTRY_ID": 9
+    },
+    {
+        "NAME": "GENERAL DYNAMICS",
+        "WEBSITE_URL": "https://www.gd.com/",
+        "FOUNDED_DATE": "1992/12/15",
+        "COUNTRY_ID": 11
+    },
+    {
+        "NAME": "NASA",
+        "WEBSITE_URL": "https://www.nasa.gov/",
+        "FOUNDED_DATE": "1993/02/09",
+        "COUNTRY_ID": 11
+    }
+]

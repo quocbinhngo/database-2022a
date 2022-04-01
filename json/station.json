@@ -1,0 +1,152 @@
+[
+    {
+        "NAME": "Tacatada Tacatada 30",
+        "FOUNDED_DATE": "1990/05/30",
+        "COUNTRY_ID": 1
+    },
+    {
+        "NAME": "Saki Kamubada 12",
+        "FOUNDED_DATE": "1995/11/28",
+        "COUNTRY_ID": 1
+    },
+    {
+        "NAME": "Namu Kichi 21",
+        "FOUNDED_DATE": "1993/06/14",
+        "COUNTRY_ID": 12
+    },
+    {
+        "NAME": "Namu Tacatada 29",
+        "FOUNDED_DATE": "1990/10/19",
+        "COUNTRY_ID": 6
+    },
+    {
+        "NAME": "Kamubada Kamubada 14",
+        "FOUNDED_DATE": "1992/12/12",
+        "COUNTRY_ID": 8
+    },
+    {
+        "NAME": "Sakake Kichi 17",
+        "FOUNDED_DATE": "1998/12/13",
+        "COUNTRY_ID": 9
+    },
+    {
+        "NAME": "Hie Kichi 2",
+        "FOUNDED_DATE": "2000/03/13",
+        "COUNTRY_ID": 3
+    },
+    {
+        "NAME": "Sakake Tika 22",
+        "FOUNDED_DATE": "1996/01/19",
+        "COUNTRY_ID": 8
+    },
+    {
+        "NAME": "Saki Tacatada 23",
+        "FOUNDED_DATE": "1993/06/21",
+        "COUNTRY_ID": 11
+    },
+    {
+        "NAME": "Hierachy Namu 6",
+        "FOUNDED_DATE": "1998/11/06",
+        "COUNTRY_ID": 2
+    },
+    {
+        "NAME": "Tacatada Toko 31",
+        "FOUNDED_DATE": "1992/05/16",
+        "COUNTRY_ID": 5
+    },
+    {
+        "NAME": "Hie Saki 9",
+        "FOUNDED_DATE": "1995/07/19",
+        "COUNTRY_ID": 2
+    },
+    {
+        "NAME": "Kichi Emotional 27",
+        "FOUNDED_DATE": "1995/01/23",
+        "COUNTRY_ID": 2
+    },
+    {
+        "NAME": "Hie Tika 7",
+        "FOUNDED_DATE": "1990/12/09",
+        "COUNTRY_ID": 8
+    },
+    {
+        "NAME": "Toko Emotional 11",
+        "FOUNDED_DATE": "1996/12/28",
+        "COUNTRY_ID": 6
+    },
+    {
+        "NAME": "Sakake Hie 4",
+        "FOUNDED_DATE": "1997/02/23",
+        "COUNTRY_ID": 2
+    },
+    {
+        "NAME": "Hie Tacatada 19",
+        "FOUNDED_DATE": "1996/10/20",
+        "COUNTRY_ID": 11
+    },
+    {
+        "NAME": "Namu Kichi 15",
+        "FOUNDED_DATE": "2000/02/19",
+        "COUNTRY_ID": 3
+    },
+    {
+        "NAME": "Kichi Tika 24",
+        "FOUNDED_DATE": "1999/05/22",
+        "COUNTRY_ID": 5
+    },
+    {
+        "NAME": "Kamubada Namu 5",
+        "FOUNDED_DATE": "1996/06/16",
+        "COUNTRY_ID": 2
+    },
+    {
+        "NAME": "Tacatada Emotional 18",
+        "FOUNDED_DATE": "1999/08/26",
+        "COUNTRY_ID": 6
+    },
+    {
+        "NAME": "Toko Sakake 28",
+        "FOUNDED_DATE": "1993/06/21",
+        "COUNTRY_ID": 8
+    },
+    {
+        "NAME": "Hierachy Toko 10",
+        "FOUNDED_DATE": "1991/06/24",
+        "COUNTRY_ID": 2
+    },
+    {
+        "NAME": "Emotional Tacatada 25",
+        "FOUNDED_DATE": "1996/06/05",
+        "COUNTRY_ID": 5
+    },
+    {
+        "NAME": "Hie Emotional 8",
+        "FOUNDED_DATE": "1993/08/18",
+        "COUNTRY_ID": 8
+    },
+    {
+        "NAME": "Kichi Hie 16",
+        "FOUNDED_DATE": "1990/12/22",
+        "COUNTRY_ID": 5
+    },
+    {
+        "NAME": "Kichi Tacatada 20",
+        "FOUNDED_DATE": "1996/09/17",
+        "COUNTRY_ID": 2
+    },
+    {
+        "NAME": "Emotional Tika 3",
+        "FOUNDED_DATE": "1994/06/01",
+        "COUNTRY_ID": 8
+    },
+    {
+        "NAME": "Hierachy Emotional 13",
+        "FOUNDED_DATE": "1990/12/03",
+        "COUNTRY_ID": 9
+    },
+    {
+        "NAME": "Toko Emotional 26",
+        "FOUNDED_DATE": "1995/08/21",
+        "COUNTRY_ID": 1
+    }
+]
